@@ -4,7 +4,7 @@ This repo showcases my achievement of completing the **AWS Cloud Quest: Cloud Pr
 
 ## 🏅 Badge
 
-![AWS Badge](assets/cloud-practitioner-badge.png)
+![AWS Badge](cloud-practitioner-badge.png)
 
 > 📅 Completed: July 2,2025  
 > 🧠 Platform: AWS SkillBuilder
